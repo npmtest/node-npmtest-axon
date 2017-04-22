@@ -1,4 +1,7 @@
-# test coverage for  [axon (v2.0.3)](https://github.com/visionmedia/axon#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-axon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-axon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-axon.svg)](https://travis-ci.org/npmtest/node-npmtest-axon)
+# npmtest-axon
+
+#### basic test coverage for  [axon (v2.0.3)](https://github.com/visionmedia/axon#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-axon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-axon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-axon.svg)](https://travis-ci.org/npmtest/node-npmtest-axon)
+
 #### High-level messaging & socket patterns implemented in pure js
 
 [![NPM](https://nodei.co/npm/axon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/axon)
@@ -93,7 +96,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "2.0.3"
+    "version": "2.0.3",
+    "bin": {}
 }
 ```
 
